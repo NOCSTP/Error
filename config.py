@@ -1,7 +1,3 @@
-import minecraft_launcher_lib
-
-
-options = minecraft_launcher_lib.utils.generate_test_options();
 
 options = {
     # This is needed
